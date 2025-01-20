@@ -6,15 +6,16 @@
 # Analyzing global data from Covid-19 Pandemic 
 <sub>*Gattering and showing the data from Brazil*</sub>
 
-The dataset it's originally available at [Github - Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data).
+*All the data used on this analysy came from [Our World in Data](https://ourworldindata.org/) and it's public available to anyone interesting in perform similar analisys.*
 
-Before I start the comparison of the data and the information that it carrier, let's first take a moment to realize how serious and, infortunately, how this pandemic change the whole world and all the people around it.
+*During the pandemic, some different data was available online. These data don't match each other and some unofficial data also came to attention of people. The date here was collected from the [World Health Organization](https://data.who.int/dashboards/covid19/cases?n=c).*
 
-Technology had a huge spike, economics are still complicated around the world and one of the big concerns are that we still don't know, for sure, the future impact of some os the decisions that we made during the event and the impact on the people's mental health.
 
-Now, for the data analisys, considering the dataframe that have only Brazil's information, it was possible to verify that the first `total_cases` informed was in **2020/02/27** and after **20 days** it has confirmed the first `total_deaths`.
+Considering the dataframe that have only Brazil's information, it was possible to verify 
 
-It was also possible to verify and present the graph showing the *Second Wave* of `new_cases` end of January 2022 and beginning of February of 2022, with it's peak on the day **2022-02-05** , an tuesday, with **298408.0** `new_cases` that single day.
+* That the first `total_cases` informed was in **2020/02/27** and after **20 days** it has confirmed the first `total_deaths`,
+
+* To verify and present the graph showing the *Second Wave* of `new_cases` end of January 2022 and beginning of February of 2022, with it's peak on the day **2022-02-05** , an tuesday, with **298408.0** `new_cases` that single day.
 
 *See the notebook here:* https://bit.ly/3Ch1CBB
 
